@@ -1,8 +1,7 @@
 # Welcome!
 
 If you're reading this, you probably don't have any idea how to set up your
-AWS credentials. Fortunately, with the powers of computers, we're goint to make
-this easy for you!
+AWS credentials. Fortunately, with the powers of computers, we're going to make this easy for you!
 
 *"But wait,"* you say, *"doesn't `<x>` already do this?"*
 
@@ -40,7 +39,8 @@ but this is an exercise in following directions, so pay attention.
 
 F.A.Q
 
-- **Q:** Why were there so many steps up there? Couldn't you have used sentences and shortened it up?
+- **Q:** Why were there so many steps up there? Couldn't you have used sentences
+and shortened it up?
   - **A:** Stop asking so many questions
 - **Q:** Why is this README so snarky?
   - **A:** ¯\\\_(ツ)\_/¯
