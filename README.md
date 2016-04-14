@@ -1,14 +1,18 @@
-Welcome!
+# Welcome!
 
 If you're reading this, you probably don't have any idea how to set up your
 AWS credentials. Fortunately, with the powers of computers, we're goint to make
 this easy for you!
 
-Assumptions
+*"But wait,"* you say, *"doesn't `<x>` already do this?"*
+
+Probably! Oh well!
+
+## Assumptions
 1. You can `npm install` stuff
 2. You have AWS credentials for the env you need and you've set up an MFA device
 
-Ready? Go.
+## Ready? Go.
 
 1. `npm install` - you've used node before, right?
 2. Get your AWS credentials. You could technically do this first, if you wanted,
