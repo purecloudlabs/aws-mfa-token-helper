@@ -37,3 +37,10 @@ but this is an exercise in following directions, so pay attention.
     13. Check `~/.aws/credentials` to make sure you have a `[default]` section
     with credentials
     14. Send Matt Cheely and Xander Dumaine $5
+
+F.A.Q
+
+- **Q:** Why were there so many steps up there? Couldn't you have used sentences and shortened it up?
+  - **A:** Stop asking so many questions
+- **Q:** Why is this README so snarky?
+  - **A:** ¯\\\_(ツ)\_/¯
