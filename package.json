@@ -1,5 +1,5 @@
 {
-  "name": "aws",
+  "name": "aws-mfa-token-helper",
   "version": "1.0.0",
   "description": "tool for aws-auth in node",
   "main": "aws-auth.js",
