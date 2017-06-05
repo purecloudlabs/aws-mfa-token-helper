@@ -27,7 +27,7 @@ but this is an exercise in following directions, so pay attention.
     7. Copy the access key id and secret access key into that file
     8. Copy the mfa file to your aws home -
     `cp mfa_id ~/.aws/mfa_id`
-    8. Copy your MFA token into that file.
+    8. Copy your MFA token into that file. You can find this in the "Assigned MFA device" field in the security credentials section of the AWS user page. (e.g. arn:aws:iam::<stuff>:mfa/<username>).
     9. Think, "wouldn't it have been easier to just
     `echo <mfa:device:id> ~/.aws/mfa_id`"
     10. Remember what I said about following directions and just do it
