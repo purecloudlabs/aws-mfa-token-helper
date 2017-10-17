@@ -79,9 +79,11 @@ function promptMfaToken() {
 
 function runCommandArgs() {
     var cmd = process.argv.slice(2);
-    cp.spawnSync(process.argv[2], process.argv.slice(3), {
-        stdio: [0, 0, 0]
-    });
+    if (cmd.length > 0) {
+        cp.spawnSync(process.argv[2], process.argv.slice(3), {
+            stdio: [0, 0, 0]
+        });
+    }
 }
 
 function storeCredentials(credentials) {

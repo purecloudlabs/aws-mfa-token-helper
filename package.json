@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "description": "tool for aws-auth in node",
   "main": "aws-auth.js",
-  "bin" : {"aws-auth": "aws-auth.js"},
+  "bin": {
+    "aws-auth": "aws-auth.js"
+  },
   "scripts": {
     "start": "node aws-auth.js",
     "test": "echo \"Error: no test specified\" && exit 1"
